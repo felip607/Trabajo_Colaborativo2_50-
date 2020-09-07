@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HilosRun">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HilosRun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
